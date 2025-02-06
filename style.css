@@ -64,3 +64,12 @@ a {
 div {
     color: red;
 }
+
+/* 커스텀 */
+.con_min_width {
+    min-width: 1080px;
+}
+
+.con {
+    width: 1080px;
+}
